@@ -1,4 +1,6 @@
 # Phase 1 – GenAI RAG MVP (Google Colab)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/Renlim61/MVP_Product001_2025_Tier120pbc/blob/main/Phase1_RAG_MVP_clean_v6.ipynb)
 
 This repository contains a **working MVP of a Retrieval-Augmented Generation (RAG) assistant** designed to run in [Google Colab](https://colab.research.google.com/) with zero infrastructure cost.  
 It enables **single-tenant** operation using a **Bring Your Own OpenAI Key** approach.
