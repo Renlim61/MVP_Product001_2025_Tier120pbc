@@ -1,3 +1,5 @@
+Cell 9 (updates)  # CELL 09 - Mount Drive & paths has replaced the Gradio cell 9 which is now cell 17.
+
 Cell 8 (updates)
 Core backend helpers consolidated: ingestion pipeline, chunking strategy, embedding calls, FAISS index handling, retrieval, RAG-answer assembly.
 Persistence helpers expanded: save/load state, directory conventions for storing indexes and metadata.
